@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whosdvniel
+- 👋 Hi, I’m Daniel.
 - 👀 I’m interested in data structures and algorythms.
 - 🌱 I’m currently learning C and Javascript, along with CSS.
 - 💞️ I’m looking to collaborate on small local projects, for the moment.
